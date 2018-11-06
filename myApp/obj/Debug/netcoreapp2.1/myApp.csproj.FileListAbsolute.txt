@@ -1,0 +1,11 @@
+/Users/dixyalamichhane/practice-c-sharp/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/Users/dixyalamichhane/practice-c-sharp/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/Users/dixyalamichhane/practice-c-sharp/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/Users/dixyalamichhane/practice-c-sharp/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/Users/dixyalamichhane/practice-c-sharp/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/Users/dixyalamichhane/practice-c-sharp/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/Users/dixyalamichhane/practice-c-sharp/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/Users/dixyalamichhane/practice-c-sharp/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/Users/dixyalamichhane/practice-c-sharp/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/Users/dixyalamichhane/practice-c-sharp/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/Users/dixyalamichhane/practice-c-sharp/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
